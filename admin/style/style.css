@@ -1,0 +1,21 @@
+.error{
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.content{
+	min-height: 578px;
+}
+
+
+.footer-area{
+	background: #3CA9E8;
+	text-align: center;
+	padding: 20px 0;
+	color: #fff;
+	margin-top: 20px;
+}
+.footer-area p{
+	margin: 0;
+}
